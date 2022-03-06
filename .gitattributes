@@ -1,3 +1,4 @@
+* text=lf
 # Flax Engine files
 *.flax filter=lfs diff=lfs merge=lfs -text
 
